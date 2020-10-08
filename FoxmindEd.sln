@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoxmindEd", "FoxmindEd.csproj", "{AAC25D4C-F867-49FF-B012-687CC19AF992}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoxmindEd.Tests", "..\FoxmindEd.Tests\FoxmindEd.Tests.csproj", "{CE6D76DB-8EFA-48B4-BD1B-A9027B9E6CCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAC25D4C-F867-49FF-B012-687CC19AF992}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAC25D4C-F867-49FF-B012-687CC19AF992}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAC25D4C-F867-49FF-B012-687CC19AF992}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAC25D4C-F867-49FF-B012-687CC19AF992}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE6D76DB-8EFA-48B4-BD1B-A9027B9E6CCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE6D76DB-8EFA-48B4-BD1B-A9027B9E6CCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE6D76DB-8EFA-48B4-BD1B-A9027B9E6CCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE6D76DB-8EFA-48B4-BD1B-A9027B9E6CCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CF94993-5EFE-4B53-AA45-1447C2BB6456}
+	EndGlobalSection
+EndGlobal
